@@ -1,5 +1,5 @@
 Python, Tensorflow, C and a little bit of everything else...  
 
-→ View my personal website: <a href="https://zephaniahdev.com/"><b>zephaniahdev.com</b></a>    
-→ Convert images into ASCII art using convolution with the python package <a href="https://pypi.org/project/tinyfilter/"><b>tinyfilter</b></a>  
-→ View my productivity website (still in testing): currently <b><a href="https://zephaniahsdata.netlify.app/">zephaniahsdata.netlify.app</a><b>
+→ View my personal website: <a href="https://zephaniahdev.com/"><b>zephaniahdev.com</b></a>   
+→ View my productivity website: currently <b><a href="https://zephaniahsdata.com/">zephaniahsdata.com</a></b>  
+→ View my most recent project: <a href="https://github.com/zroe1/neural-network-from-scratch"><b>Neural network with only stdio.h and stdlib.h in C</b></a>  
